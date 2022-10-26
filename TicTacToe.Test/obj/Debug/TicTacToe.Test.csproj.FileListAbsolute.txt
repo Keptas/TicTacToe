@@ -1,0 +1,17 @@
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\TicTacToe.Test.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\TicTacToe.Test.pdb
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\TicTacToe.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\TicTacToe.pdb
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\obj\Debug\TicTacToe.Test.csproj.AssemblyReference.cache
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\obj\Debug\TicTacToe.Test.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\obj\Debug\TicTacToe.Test.csproj.CopyComplete
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\obj\Debug\TicTacToe.Test.dll
+C:\Users\Lukas\source\repos\XandO\TicTacToe.Test\obj\Debug\TicTacToe.Test.pdb
